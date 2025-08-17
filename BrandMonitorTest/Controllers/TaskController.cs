@@ -51,7 +51,7 @@ namespace BrandMonitorTest.Controllers
                 return NotFound();
             }
 
-            return Ok(new { status = TaskState.finished });
+            return Ok(new { status = task.State.ToString() });
         }
     }
 }
