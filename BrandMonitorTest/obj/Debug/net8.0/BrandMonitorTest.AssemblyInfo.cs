@@ -14,7 +14,7 @@ using System.Reflection;
 [assembly: System.Reflection.AssemblyCompanyAttribute("BrandMonitorTest")]
 [assembly: System.Reflection.AssemblyConfigurationAttribute("Debug")]
 [assembly: System.Reflection.AssemblyFileVersionAttribute("1.0.0.0")]
-[assembly: System.Reflection.AssemblyInformationalVersionAttribute("1.0.0+51792b5d750ac3205343dfb22c2025cea49bcd0f")]
+[assembly: System.Reflection.AssemblyInformationalVersionAttribute("1.0.0+b9e514d194328c186dbdd64a00839a6129d82eb9")]
 [assembly: System.Reflection.AssemblyProductAttribute("BrandMonitorTest")]
 [assembly: System.Reflection.AssemblyTitleAttribute("BrandMonitorTest")]
 [assembly: System.Reflection.AssemblyVersionAttribute("1.0.0.0")]

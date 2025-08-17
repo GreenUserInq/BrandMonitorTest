@@ -1,4 +1,5 @@
 using BrandMonitorTest.Data;
+using BrandMonitorTest.Models;
 using BrandMonitorTest.Services;
 using Microsoft.EntityFrameworkCore;
 
@@ -6,6 +7,9 @@ var builder = WebApplication.CreateBuilder(args);
 
 builder.Services.AddDbContext<TaskDbContext>(options =>
     options.UseNpgsql(builder.Configuration.GetConnectionString("DefaultConnection")));
+
+builder.Services.Configure<TaskSettings>(
+    builder.Configuration.GetSection("TaskSettings"));
 
 builder.Services.AddHostedService<TaskWorker>();
 builder.Services.AddControllers();
