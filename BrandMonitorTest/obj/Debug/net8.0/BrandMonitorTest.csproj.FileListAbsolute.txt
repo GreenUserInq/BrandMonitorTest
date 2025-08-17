@@ -129,10 +129,10 @@ D:\hh\BrandMonitorTest\BrandMonitorTest\obj\Debug\net8.0\staticwebassets.build.j
 D:\hh\BrandMonitorTest\BrandMonitorTest\obj\Debug\net8.0\staticwebassets.build.json.cache
 D:\hh\BrandMonitorTest\BrandMonitorTest\obj\Debug\net8.0\staticwebassets.development.json
 D:\hh\BrandMonitorTest\BrandMonitorTest\obj\Debug\net8.0\staticwebassets.build.endpoints.json
-D:\hh\BrandMonitorTest\BrandMonitorTest\obj\Debug\net8.0\staticwebassets.upToDateCheck.txt
 D:\hh\BrandMonitorTest\BrandMonitorTest\obj\Debug\net8.0\BrandMon.29606B27.Up2Date
 D:\hh\BrandMonitorTest\BrandMonitorTest\obj\Debug\net8.0\BrandMonitorTest.dll
 D:\hh\BrandMonitorTest\BrandMonitorTest\obj\Debug\net8.0\refint\BrandMonitorTest.dll
 D:\hh\BrandMonitorTest\BrandMonitorTest\obj\Debug\net8.0\BrandMonitorTest.pdb
 D:\hh\BrandMonitorTest\BrandMonitorTest\obj\Debug\net8.0\BrandMonitorTest.genruntimeconfig.cache
 D:\hh\BrandMonitorTest\BrandMonitorTest\obj\Debug\net8.0\ref\BrandMonitorTest.dll
+D:\hh\BrandMonitorTest\BrandMonitorTest\obj\Debug\net8.0\staticwebassets.upToDateCheck.txt

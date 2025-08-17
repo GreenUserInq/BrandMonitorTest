@@ -1,1 +1,28 @@
-[]
+[
+  {
+    "ContainingType": "BrandMonitorTest.Controllers.TaskController",
+    "Method": "CreateTask",
+    "RelativePath": "task",
+    "HttpMethod": "POST",
+    "IsController": true,
+    "Order": 0,
+    "Parameters": [],
+    "ReturnTypes": []
+  },
+  {
+    "ContainingType": "BrandMonitorTest.Controllers.TaskController",
+    "Method": "GetTask",
+    "RelativePath": "task/{id}",
+    "HttpMethod": "GET",
+    "IsController": true,
+    "Order": 0,
+    "Parameters": [
+      {
+        "Name": "id",
+        "Type": "System.String",
+        "IsRequired": true
+      }
+    ],
+    "ReturnTypes": []
+  }
+]
