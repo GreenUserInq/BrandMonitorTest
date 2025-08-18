@@ -24,25 +24,30 @@ namespace BrandMonitorTest.Controllers
         [HttpPost]
         public async Task<IActionResult> CreateTask()
         {
-            var test = new EmptyTask
+            var task = new EmptyTask
             {
                 Id = Guid.NewGuid(),
                 UpdateTime = DateTime.UtcNow,
                 State = TaskState.created
             };
 
-            _db.Tasks.Add(test);
+            _db.Tasks.Add(task);
             await _db.SaveChangesAsync();
 
-            return Accepted(new { test.Id });
+            return Accepted(new { task.Id });
         }
 
+        /// <summary>
+        /// Если задача с таким ID существует, возвращает её статус
+        /// </summary>
+        /// <param name="id"> GUID </param>
+        /// <returns></returns>
         [HttpGet("{id}")]
         public IActionResult GetTask(string id)
         {
             if (!Guid.TryParse(id, out var taskId))
             {
-                return NotFound();
+                return BadRequest();//в задаче только код без сообщения
             }
 
             var task = _db.Tasks.FirstOrDefault(t => t.Id == taskId);

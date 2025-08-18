@@ -7,6 +7,9 @@ using System.Runtime;
 
 namespace BrandMonitorTest.Services
 {
+    /// <summary>
+    /// Выполняет смену статуса задачи в фоне
+    /// </summary>
     public class TaskWorker : BackgroundService
     {
         private readonly IServiceProvider _services;
