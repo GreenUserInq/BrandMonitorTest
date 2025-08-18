@@ -3,32 +3,32 @@
   "WorkspaceRootPath": "D:\\hh\\BrandMonitorTest\\",
   "Documents": [
     {
-      "AbsoluteMoniker": "D:0:0:{C0725C84-9727-462E-B45E-4BADBA3CB1E7}|BrandMonitorTest\\BrandMonitorTest.csproj|d:\\hh\\brandmonitortest\\brandmonitortest\\appsettings.json||{90A6B3A7-C1A3-4009-A288-E2FF89E96FA0}",
-      "RelativeMoniker": "D:0:0:{C0725C84-9727-462E-B45E-4BADBA3CB1E7}|BrandMonitorTest\\BrandMonitorTest.csproj|solutionrelative:brandmonitortest\\appsettings.json||{90A6B3A7-C1A3-4009-A288-E2FF89E96FA0}"
-    },
-    {
-      "AbsoluteMoniker": "D:0:0:{C0725C84-9727-462E-B45E-4BADBA3CB1E7}|BrandMonitorTest\\BrandMonitorTest.csproj|d:\\hh\\brandmonitortest\\brandmonitortest\\models\\tasksettings.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
-      "RelativeMoniker": "D:0:0:{C0725C84-9727-462E-B45E-4BADBA3CB1E7}|BrandMonitorTest\\BrandMonitorTest.csproj|solutionrelative:brandmonitortest\\models\\tasksettings.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+      "AbsoluteMoniker": "D:0:0:{C0725C84-9727-462E-B45E-4BADBA3CB1E7}|BrandMonitorTest\\BrandMonitorTest.csproj|d:\\hh\\brandmonitortest\\brandmonitortest\\data\\taskdbcontext.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{C0725C84-9727-462E-B45E-4BADBA3CB1E7}|BrandMonitorTest\\BrandMonitorTest.csproj|solutionrelative:brandmonitortest\\data\\taskdbcontext.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
     },
     {
       "AbsoluteMoniker": "D:0:0:{C0725C84-9727-462E-B45E-4BADBA3CB1E7}|BrandMonitorTest\\BrandMonitorTest.csproj|d:\\hh\\brandmonitortest\\brandmonitortest\\services\\taskworker.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
       "RelativeMoniker": "D:0:0:{C0725C84-9727-462E-B45E-4BADBA3CB1E7}|BrandMonitorTest\\BrandMonitorTest.csproj|solutionrelative:brandmonitortest\\services\\taskworker.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
     },
     {
-      "AbsoluteMoniker": "D:0:0:{C0725C84-9727-462E-B45E-4BADBA3CB1E7}|BrandMonitorTest\\BrandMonitorTest.csproj|d:\\hh\\brandmonitortest\\brandmonitortest\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
-      "RelativeMoniker": "D:0:0:{C0725C84-9727-462E-B45E-4BADBA3CB1E7}|BrandMonitorTest\\BrandMonitorTest.csproj|solutionrelative:brandmonitortest\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
-    },
-    {
       "AbsoluteMoniker": "D:0:0:{C0725C84-9727-462E-B45E-4BADBA3CB1E7}|BrandMonitorTest\\BrandMonitorTest.csproj|d:\\hh\\brandmonitortest\\brandmonitortest\\controllers\\taskcontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
       "RelativeMoniker": "D:0:0:{C0725C84-9727-462E-B45E-4BADBA3CB1E7}|BrandMonitorTest\\BrandMonitorTest.csproj|solutionrelative:brandmonitortest\\controllers\\taskcontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
     },
     {
-      "AbsoluteMoniker": "D:0:0:{C0725C84-9727-462E-B45E-4BADBA3CB1E7}|BrandMonitorTest\\BrandMonitorTest.csproj|d:\\hh\\brandmonitortest\\brandmonitortest\\models\\emptytask.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
-      "RelativeMoniker": "D:0:0:{C0725C84-9727-462E-B45E-4BADBA3CB1E7}|BrandMonitorTest\\BrandMonitorTest.csproj|solutionrelative:brandmonitortest\\models\\emptytask.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+      "AbsoluteMoniker": "D:0:0:{C0725C84-9727-462E-B45E-4BADBA3CB1E7}|BrandMonitorTest\\BrandMonitorTest.csproj|d:\\hh\\brandmonitortest\\brandmonitortest\\models\\tasksettings.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{C0725C84-9727-462E-B45E-4BADBA3CB1E7}|BrandMonitorTest\\BrandMonitorTest.csproj|solutionrelative:brandmonitortest\\models\\tasksettings.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
     },
     {
-      "AbsoluteMoniker": "D:0:0:{C0725C84-9727-462E-B45E-4BADBA3CB1E7}|BrandMonitorTest\\BrandMonitorTest.csproj|d:\\hh\\brandmonitortest\\brandmonitortest\\data\\taskdbcontext.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
-      "RelativeMoniker": "D:0:0:{C0725C84-9727-462E-B45E-4BADBA3CB1E7}|BrandMonitorTest\\BrandMonitorTest.csproj|solutionrelative:brandmonitortest\\data\\taskdbcontext.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+      "AbsoluteMoniker": "D:0:0:{C0725C84-9727-462E-B45E-4BADBA3CB1E7}|BrandMonitorTest\\BrandMonitorTest.csproj|d:\\hh\\brandmonitortest\\brandmonitortest\\appsettings.json||{90A6B3A7-C1A3-4009-A288-E2FF89E96FA0}",
+      "RelativeMoniker": "D:0:0:{C0725C84-9727-462E-B45E-4BADBA3CB1E7}|BrandMonitorTest\\BrandMonitorTest.csproj|solutionrelative:brandmonitortest\\appsettings.json||{90A6B3A7-C1A3-4009-A288-E2FF89E96FA0}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{C0725C84-9727-462E-B45E-4BADBA3CB1E7}|BrandMonitorTest\\BrandMonitorTest.csproj|d:\\hh\\brandmonitortest\\brandmonitortest\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{C0725C84-9727-462E-B45E-4BADBA3CB1E7}|BrandMonitorTest\\BrandMonitorTest.csproj|solutionrelative:brandmonitortest\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{C0725C84-9727-462E-B45E-4BADBA3CB1E7}|BrandMonitorTest\\BrandMonitorTest.csproj|d:\\hh\\brandmonitortest\\brandmonitortest\\models\\emptytask.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{C0725C84-9727-462E-B45E-4BADBA3CB1E7}|BrandMonitorTest\\BrandMonitorTest.csproj|solutionrelative:brandmonitortest\\models\\emptytask.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
     },
     {
       "AbsoluteMoniker": "D:0:0:{C0725C84-9727-462E-B45E-4BADBA3CB1E7}|BrandMonitorTest\\BrandMonitorTest.csproj|d:\\hh\\brandmonitortest\\brandmonitortest\\enums\\taskstate.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
@@ -50,11 +50,11 @@
       "DocumentGroups": [
         {
           "DockedWidth": 200,
-          "SelectedChildIndex": 7,
+          "SelectedChildIndex": 3,
           "Children": [
             {
               "$type": "Document",
-              "DocumentIndex": 1,
+              "DocumentIndex": 3,
               "Title": "TaskSettings.cs",
               "DocumentMoniker": "D:\\hh\\BrandMonitorTest\\BrandMonitorTest\\Models\\TaskSettings.cs",
               "RelativeDocumentMoniker": "BrandMonitorTest\\Models\\TaskSettings.cs",
@@ -67,20 +67,20 @@
             },
             {
               "$type": "Document",
-              "DocumentIndex": 2,
+              "DocumentIndex": 1,
               "Title": "TaskWorker.cs",
               "DocumentMoniker": "D:\\hh\\BrandMonitorTest\\BrandMonitorTest\\Services\\TaskWorker.cs",
               "RelativeDocumentMoniker": "BrandMonitorTest\\Services\\TaskWorker.cs",
               "ToolTip": "D:\\hh\\BrandMonitorTest\\BrandMonitorTest\\Services\\TaskWorker.cs",
               "RelativeToolTip": "BrandMonitorTest\\Services\\TaskWorker.cs",
-              "ViewState": "AgIAABgAAAAAAAAAAAAYwCEAAAAAAAAAAAAAAA==",
+              "ViewState": "AgIAAAYAAAAAAAAAAAAAAAoAAAAtAAAAAAAAAA==",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
               "WhenOpened": "2025-08-17T10:03:12.196Z",
               "EditorCaption": ""
             },
             {
               "$type": "Document",
-              "DocumentIndex": 3,
+              "DocumentIndex": 5,
               "Title": "Program.cs",
               "DocumentMoniker": "D:\\hh\\BrandMonitorTest\\BrandMonitorTest\\Program.cs",
               "RelativeDocumentMoniker": "BrandMonitorTest\\Program.cs",
@@ -88,12 +88,11 @@
               "RelativeToolTip": "BrandMonitorTest\\Program.cs",
               "ViewState": "AgIAAAAAAAAAAAAAAAAAAAsAAAA2AAAAAAAAAA==",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2025-08-17T08:08:26.978Z",
-              "EditorCaption": ""
+              "WhenOpened": "2025-08-17T08:08:26.978Z"
             },
             {
               "$type": "Document",
-              "DocumentIndex": 6,
+              "DocumentIndex": 0,
               "Title": "TaskDbContext.cs",
               "DocumentMoniker": "D:\\hh\\BrandMonitorTest\\BrandMonitorTest\\Data\\TaskDbContext.cs",
               "RelativeDocumentMoniker": "BrandMonitorTest\\Data\\TaskDbContext.cs",
@@ -101,11 +100,12 @@
               "RelativeToolTip": "BrandMonitorTest\\Data\\TaskDbContext.cs",
               "ViewState": "AgIAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAA==",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2025-08-17T08:04:31.004Z"
+              "WhenOpened": "2025-08-17T08:04:31.004Z",
+              "EditorCaption": ""
             },
             {
               "$type": "Document",
-              "DocumentIndex": 5,
+              "DocumentIndex": 6,
               "Title": "EmptyTask.cs",
               "DocumentMoniker": "D:\\hh\\BrandMonitorTest\\BrandMonitorTest\\Models\\EmptyTask.cs",
               "RelativeDocumentMoniker": "BrandMonitorTest\\Models\\EmptyTask.cs",
@@ -129,19 +129,20 @@
             },
             {
               "$type": "Document",
-              "DocumentIndex": 4,
+              "DocumentIndex": 2,
               "Title": "TaskController.cs",
               "DocumentMoniker": "D:\\hh\\BrandMonitorTest\\BrandMonitorTest\\Controllers\\TaskController.cs",
               "RelativeDocumentMoniker": "BrandMonitorTest\\Controllers\\TaskController.cs",
               "ToolTip": "D:\\hh\\BrandMonitorTest\\BrandMonitorTest\\Controllers\\TaskController.cs",
               "RelativeToolTip": "BrandMonitorTest\\Controllers\\TaskController.cs",
-              "ViewState": "AgIAABgAAAAAAAAAAAA1wC4AAAAAAAAAAAAAAA==",
+              "ViewState": "AgIAAB8AAAAAAAAAAAAQwCgAAABAAAAAAAAAAA==",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2025-08-17T08:14:51.898Z"
+              "WhenOpened": "2025-08-17T08:14:51.898Z",
+              "EditorCaption": ""
             },
             {
               "$type": "Document",
-              "DocumentIndex": 0,
+              "DocumentIndex": 4,
               "Title": "appsettings.json",
               "DocumentMoniker": "D:\\hh\\BrandMonitorTest\\BrandMonitorTest\\appsettings.json",
               "RelativeDocumentMoniker": "BrandMonitorTest\\appsettings.json",
