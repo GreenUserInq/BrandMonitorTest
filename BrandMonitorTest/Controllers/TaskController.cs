@@ -43,14 +43,14 @@ namespace BrandMonitorTest.Controllers
         /// <param name="id"> GUID </param>
         /// <returns></returns>
         [HttpGet("{id}")]
-        public IActionResult GetTask(string id)
+        public async Task<IActionResult> GetTask(string id)
         {
             if (!Guid.TryParse(id, out var taskId))
             {
-                return BadRequest();//в задаче только код без сообщения
+                return BadRequest(); // только код сообщение в задаче не указано
             }
 
-            var task = _db.Tasks.FirstOrDefault(t => t.Id == taskId);
+            var task = await _db.Tasks.FirstOrDefaultAsync(t => t.Id == taskId);
             if (task == null)
             {
                 return NotFound();
@@ -58,5 +58,6 @@ namespace BrandMonitorTest.Controllers
 
             return Ok(new { status = task.State.ToString() });
         }
+
     }
 }
